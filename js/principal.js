@@ -1,4 +1,3 @@
-import Cl_ingreso from "./Cl_empresa.js"
 import Cl_empleados from "./Cl_empleados.js"
 import Cl_empresa from "./Cl_empresa.js";
 
